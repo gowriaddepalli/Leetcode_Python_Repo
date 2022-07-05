@@ -15,3 +15,6 @@ This is my repository of python tricks learnt via leetcode.
 - 2 leetcode medium
 - 1 leetcode hard
 - 1 system design
+
+## System Design Book
+## Educative.io
