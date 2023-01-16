@@ -7,5 +7,5 @@ class Solution:
             hashmap[nums[i]] = i
             
             
-Time complexity: O(N);
-Space Complexity: O(N);
+## Time complexity: O(N);
+## Space Complexity: O(N);
